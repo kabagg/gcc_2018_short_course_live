@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Keith Baggerly"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+This is a collection of stuff illustrating
+reproducible research.
+
